@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+body{
+	margin: 15px;
+}
+div{
+        border: 15px solid blue;
+        padding: 50px;
+	    background-color: lightblue;
+        width: 300px;
+    }
